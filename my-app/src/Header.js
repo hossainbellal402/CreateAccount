@@ -14,6 +14,6 @@ function Header() {
         </div>
     )
 }
-import './Header.css';
-export
+
+export default Header
 
